@@ -1,0 +1,15 @@
+{
+ "editor.pasteAs.showPasteSelector": "afterPaste",
+ "markdown.editor.pasteUrlAsFormattedLink.enabled": "never",
+ "ipynb.pasteImagesAsAttachments.enabled": true,
+ "editor.pasteAs.enabled": true,
+ "workbench.tree.expandMode": "singleClick",
+ "files.simpleDialog.enable": false,
+ "files.enableTrash": true,
+ "material-icon-theme.folders.theme": "specific",
+ "material-icon-theme.hidesExplorerArrows": false,
+ "window.closeWhenEmpty": false,
+ "explorer.enableUndo": true,
+ "explorer.expandSingleFolderWorkspaces": true,
+ "explorer.compactFolders": false
+}
