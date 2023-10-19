@@ -1,14 +1,13 @@
 import React from 'react';
-import { Home } from './src/screen/home';
+import {NavigationContainer} from '@react-navigation/native';
+import Routes from './src/routes/AppRoutes';
 
-function App(): JSX.Element {
-
+const App = () => {
   return (
-    <>
-      <Home />
-    </>
+    <NavigationContainer>
+      <Routes />
+    </NavigationContainer>
   );
-}
-
+};
 
 export default App;
