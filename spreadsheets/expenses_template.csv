@@ -1,0 +1,4 @@
+Data,Tipo,Categoria,Descrição,Valor_Total,Parcelas,Valor_Parcela,Status,Observações
+2025-11-05,Despesa,Alimentação,Supermercado,250.00,1,250.00,Pago,Compra à vista
+2025-10-20,Despesa,Eletrônicos,Smartphone,2400.00,12,200.00,Parcelado,Parcelas mensais
+2025-11-10,Receita,Salário,Salário Mensal,4500.00,1,4500.00,Recebido,Receita fixa
