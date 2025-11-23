@@ -1,0 +1,15 @@
+# Generating planilha_financeiro.xlsx Locally
+
+To generate the Excel file `planilha_financeiro.xlsx`, follow these steps:
+
+1. Install the required library:
+   ```bash
+   pip install openpyxl
+   ```
+
+2. Run the Python script:
+   ```bash
+   python spreadsheets/generate_xlsx.py
+   ```
+
+This will produce the file `planilha_financeiro.xlsx` in the project directory.
